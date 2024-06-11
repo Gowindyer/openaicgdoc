@@ -1,5 +1,5 @@
 # Installation
 
-## 1. Install OpenAICG2+ with pip
+## Install OpenAICG2+ with pip
 
-## 2. Test the Installation of OpenAICG2+
+## Test the Installation of OpenAICG2+
