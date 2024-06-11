@@ -3,13 +3,10 @@
 
 format: jb-book
 root: intro
-options:
-  numbered: true
-parts:
-  - caption: Introduction
-    chapters:
-    - file: installation 
-    - file: markdown
-    - file: notebooks
-    - file: markdown-notebooks
-    - file: mymarkdownfile
+chapters:
+- file: installation 
+- file: markdown
+- file: notebooks
+- file: markdown-notebooks
+- file: mymarkdownfile
+
