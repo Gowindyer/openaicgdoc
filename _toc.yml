@@ -10,3 +10,4 @@ chapters:
 - file: notebooks
 - file: markdown-notebooks
 - file: mymarkdownfile
+- file: installation 
